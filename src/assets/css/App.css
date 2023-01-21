@@ -1,0 +1,12 @@
+.body {
+  background-color: #f7f7f7;
+}
+
+.active {
+  color: blue !important;
+}
+
+.leaflet-container {
+  width: 100vh;
+  height: 100vh;
+}
